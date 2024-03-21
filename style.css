@@ -27,3 +27,8 @@ form {
     flex-direction: column;
     gap: 5px;
 }
+
+.campo{
+    padding: 15px;
+    border-radius: 4px;
+}
